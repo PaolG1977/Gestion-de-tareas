@@ -25,7 +25,7 @@ Utilizar el método pop() de la lista para eliminar una de las tareas ingresadas
 c. Mostrar las Tareas:
 Imprimir en pantalla las tareas restantes almacenadas en la lista, accediendo directamente a los elementos mediante sus índices.
 
-5. Confirmación y Fusión de la Rama:
+4. Confirmación y Fusión de la Rama:
  Confirma tus cambios en la rama actual
  Confirmar los cambios en la rama master/main
 
